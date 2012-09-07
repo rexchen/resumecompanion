@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="party_description">活動說明</string>
+	<string name="party_today">今日好康</string>
+	<string name="party_record">參加紀錄</string>
+	<string name="party_invite">邀請朋友</string>
+	<string name="party_invite1">邀請</string>
+	<string name="party_invite2">位朋友</string>
+	<string name="party_about">關於粉多</string>
+	<string name="party_inviteFriend">發送邀請</string>
+	<string name="party_inviteSuccess">邀請成功</string>
+	<string name="party_invite_message">搶到了[粉多網路辦桌]號碼牌，10吋大雞排快要到手啦~\(^o^)/~\n到手啦~快要到手啦!! 網路辦桌就是要和好捧優一起參加才會熱鬧，趕快一起去搶，限量是不留情面的，緊緊緊!! 腳手慢你丟搶無啦!!(奔…) </string>
+	<string name="party_logout">Logout</string>
+	<string name="party_qty">份</string>
+	<string name="party_product_description">商品描述</string>
+	<string name="party_how_to_get">領取方式</string>
+	<string name="party_prize">中獎名單</string>
+	<string name="party_domain">www.friendo.com.tw</string>
+	<string name="party_about_description">粉多是一個好吃、新奇、又好玩，禮多人不怪的台灣社群網站。為什麼好吃，因為朋友送的貼心小點讓你吃不完。為什麼新奇，因為送禮成真，童叟無欺。為什麼好玩，因為粉多互動，讓你友誼加成愛情加分。\n\nFriendo成立於2012年的春天，是台灣第一個虛實整合的社群網站，本著愛鄉、愛民、愛台灣的在地鄉民熱血，抱著不只是進來看熱鬧，也不只是往前站了一點…我們整個踏進黃線，暴走的撩下去！為什麼台灣創造不了一個在地本土、熱血、好玩又有趣的社群網站呢！\n\nFriendo結合了25togo等多家專門販售設計師商品的線上店家、GO Happy、全家便利商店與各大線上零售業者等等…跟著我們熱情追夢的夥伴們，提供所有願望城中，新奇又有趣的兌換商品，讓你和你的朋友們都能沉浸在送禮交流的喜悅中！\n\n另外粉多獨創的願望清單，讓你一眼就能知道你的朋友現在最想要的禮物是什麼，不僅可以立即幫你的朋友實現願望，做他的神燈精靈，也幫你免除每次送禮時不知要挑什麼禮物的煩惱困境，就算是想送給有FU的暗戀對象，也不會讓你挑到地雷的禮物，使你剛要萌芽的愛情瞬間都枯黃，俗話說的好：「送對禮物讓你上天堂，嚥氣的禮物讓你想抬郎!」還在煩惱嗎?還是只再按讚嗎?還再送虛擬的道具嗎?不要再狂敲右鍵跳著說了啦！大大們，快用粉多就對啦，是也?!</string>
+	<string name="party_slogan">100大品牌 X 免費100天 X 每天100份</string>
+	<string name="party_content_1">一、活動名稱</string>
+	<string name="party_content_1_des">粉多「網路辦桌」大請客</string>
+	<string name="party_content_2">二、活動主旨</string>
+	<string name="party_content_2_des">還會有什麼主旨??就是慶祝全世界第一個可以請客的社交網站Friendo上線，卯起來請大家吃吃喝喝拿好康，別再淡定了，快拿出搶復仇者聯盟電影票、搶少女時代演唱會入場卷、搶微風廣場福袋的殺紅眼態度，火速登入，佔好座位，免費抽大獎吧！</string>
+	<string name="party_content_3">三、活動時間</string>
+	<string name="party_content_3_des">即日起~101年08月30日</string>
+	<string name="party_content_4">四、活動辦法</string>
+	<string name="party_content_4_des">只要在活動時間內，使用FB登入或是成為粉多會員即可參加抽獎！每天有不同商品，每次登入，就能抽當天的商品，天天登入，就能天天抽獎。當天邀請朋友參加，此帳號當日抽獎機會提升為2倍。每個帳號一天只有一次中獎資格。會員不論中獎與否，都能在願望城中購買或兌換限時折扣商品。</string>
+	<string name="party_content_5">五、參加資格</string>
+	<string name="party_content_5_des">本活動“僅適用”於居住台灣地區的會員，會員通訊住址需為「台灣本島、澎湖、金門及馬祖地區」。僅接受個人參加，不得以公司或機構團體名義參加。其他請參照活動條款。</string>
+	<string name="party_more">瞭解更多</string>
+	<string name="party_more_des">台灣第一個可以請客的社群網站\nwww.friendo.com.tw</string>
+	<string name="party_tomorrow">別灰心,明天有更好的獎品等著你!!</string>
+	<string name="party_get_award">中獎了!中獎了!</string>
+	<string name="table">桌</string>
+	<string name="number">號</string>
+	<string name="cancel_login">取消登入</string>
+	<string name="system_error">系統錯誤，請稍候再試</string>
+	<string name="invite_max">只能邀請10位朋友</string>
+</resources>
